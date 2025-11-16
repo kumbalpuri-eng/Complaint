@@ -1,0 +1,5 @@
+{
+  "name": "Complaint Lifecycle Orchestrator",
+  "description": "An AI-powered assistant to manage the full lifecycle of complaints for the Explosives Industry, from intake and triage to closure.",
+  "requestFramePermissions": []
+}
